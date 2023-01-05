@@ -51,7 +51,7 @@ nav li {
 .banner {
     display: flex;
     align-items: center;
-    margin: 0 200px;
+    margin: 0 37px 0 200px;
 }
 
 .banner-title {
